@@ -1,0 +1,22 @@
+{
+  "name": "Defter",
+  "short_name": "Defter",
+  "description": "Kişisel not defteri uygulaması",
+  "start_url": "/Defter1/notebook.html",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#c8502a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://huseyindongel38-dot.github.io/Defter1/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://huseyindongel38-dot.github.io/Defter1/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
